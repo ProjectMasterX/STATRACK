@@ -1,0 +1,9 @@
+﻿scikit-learn==1.4.1.post1
+streamlit==1.32.2
+pandas==2.2.1
+scipy==1.12.0
+statsmodels
+numpy==1.26.4
+matplotlib==3.8.3
+numpy_financial==1.0.0
+seaborn==0.13.2
